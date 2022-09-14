@@ -1,5 +1,7 @@
 # Javascript promises - custom implementation from scratch 👨‍💻
 
+[![Build Status](https://github.com/mykhailoklym94/promise/actions/workflows/main.yml/badge.svg)](https://github.com/mykhailoklym94/promise/actions/workflows/main.yml)
+
 ## General
 
 What is a promise ? Promise is nothing more than a fancy object that is designed to make async code more readable. This object is built-in in JavaScript enginge and available to you as a developer as a global variable.
